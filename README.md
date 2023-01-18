@@ -3,15 +3,17 @@
 [![1.png](https://i.postimg.cc/7Y3shZdD/1.png)](https://postimg.cc/YhSfyMty)
 
 <!-- [![2.png](https://i.postimg.cc/2ywWpM9p/2.png)](https://postimg.cc/K31jBqyQ) -->
+<hr>
 <h3>Categories of Items</h3>
 
 ![2](https://user-images.githubusercontent.com/83126069/213188660-0881d26b-9339-473a-ba02-85039b1b6599.png)
+<hr>
 
 <h3>Category Section</h3>
 
 
 ![3](https://user-images.githubusercontent.com/83126069/213188906-7dbdce1a-1c21-496b-b08a-352f6f856490.png)
-
+<hr>
 <h3>Newsletter Section</h3>
 
 
